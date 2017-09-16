@@ -1,7 +1,7 @@
 {
   "name": "ninja-atom-syntax",
   "theme": "syntax",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "It's a dark syntax theme created especially for Atom and JS lover, with mild colors good for reading your code.",
   "author": {
     "name": "Srdjan Prpa <srdjanprpa@gmail.com>",
