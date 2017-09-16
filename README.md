@@ -1,5 +1,5 @@
 # Ninja Atom Syntax
-![Relase](https://img.shields.io/badge/relase-0.1.0-7ec699.svg)
+![Relase](https://img.shields.io/badge/relase-0.1.1-7ec699.svg)
 
 
 It's a dark syntax theme created especially for Atom and JS lover, with mild colors good for reading your code.
