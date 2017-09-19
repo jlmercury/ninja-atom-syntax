@@ -1,5 +1,5 @@
 # Ninja Atom Syntax
-![Relase](https://img.shields.io/badge/relase-0.1.1-7ec699.svg)
+![Relase](https://img.shields.io/badge/relase-0.1.2-7ec699.svg)
 
 
 It's a dark syntax theme created especially for Atom and JS lover, with mild colors good for reading your code.
@@ -35,7 +35,7 @@ apm install ninja-atom-syntax
 
 **Activation**  
   1. Open *Settings* > *Themes*  
-  2. Select `Nord Atom` from the *Syntax Theme* drop-down menu  
+  2. Select `Ninja Atom` from the *Syntax Theme* drop-down menu  
 
 
 ### Badges
